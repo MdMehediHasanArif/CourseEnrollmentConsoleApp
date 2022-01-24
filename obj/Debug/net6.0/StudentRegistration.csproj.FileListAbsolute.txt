@@ -1,0 +1,15 @@
+/home/arif/RiderProjects/StudentRegistration/StudentRegistration/bin/Debug/net6.0/StudentRegistration
+/home/arif/RiderProjects/StudentRegistration/StudentRegistration/bin/Debug/net6.0/StudentRegistration.deps.json
+/home/arif/RiderProjects/StudentRegistration/StudentRegistration/bin/Debug/net6.0/StudentRegistration.runtimeconfig.json
+/home/arif/RiderProjects/StudentRegistration/StudentRegistration/bin/Debug/net6.0/StudentRegistration.dll
+/home/arif/RiderProjects/StudentRegistration/StudentRegistration/bin/Debug/net6.0/ref/StudentRegistration.dll
+/home/arif/RiderProjects/StudentRegistration/StudentRegistration/bin/Debug/net6.0/StudentRegistration.pdb
+/home/arif/RiderProjects/StudentRegistration/StudentRegistration/obj/Debug/net6.0/StudentRegistration.csproj.AssemblyReference.cache
+/home/arif/RiderProjects/StudentRegistration/StudentRegistration/obj/Debug/net6.0/StudentRegistration.GeneratedMSBuildEditorConfig.editorconfig
+/home/arif/RiderProjects/StudentRegistration/StudentRegistration/obj/Debug/net6.0/StudentRegistration.AssemblyInfoInputs.cache
+/home/arif/RiderProjects/StudentRegistration/StudentRegistration/obj/Debug/net6.0/StudentRegistration.AssemblyInfo.cs
+/home/arif/RiderProjects/StudentRegistration/StudentRegistration/obj/Debug/net6.0/StudentRegistration.csproj.CoreCompileInputs.cache
+/home/arif/RiderProjects/StudentRegistration/StudentRegistration/obj/Debug/net6.0/StudentRegistration.dll
+/home/arif/RiderProjects/StudentRegistration/StudentRegistration/obj/Debug/net6.0/ref/StudentRegistration.dll
+/home/arif/RiderProjects/StudentRegistration/StudentRegistration/obj/Debug/net6.0/StudentRegistration.pdb
+/home/arif/RiderProjects/StudentRegistration/StudentRegistration/obj/Debug/net6.0/StudentRegistration.genruntimeconfig.cache
